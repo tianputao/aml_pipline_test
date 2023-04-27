@@ -1,11 +1,3 @@
-// {
-//     "model": "https://github.com/leonlj/mlopstmptest/raw/main/sklearn_regression_model.pkl",
-//     "scoring": "https://raw.githubusercontent.com/leonlj/mlopstmptest/main/score.py",
-//     "conda": "https://raw.githubusercontent.com/leonlj/mlopstmptest/main/conda_dependencies.yml",
-//     "modelname": "sklearn_regression_model.pkl"
-// }
-
-
 {
     "model": "https://github.com/tianputao/aml_pipline_test/blob/main/sklearn_regression_model.pkl",
     "scoring": "https://raw.githubusercontent.com/tianputao/aml_pipline_test/main/score.py",
