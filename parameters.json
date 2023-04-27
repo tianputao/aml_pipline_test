@@ -1,0 +1,14 @@
+// {
+//     "model": "https://github.com/leonlj/mlopstmptest/raw/main/sklearn_regression_model.pkl",
+//     "scoring": "https://raw.githubusercontent.com/leonlj/mlopstmptest/main/score.py",
+//     "conda": "https://raw.githubusercontent.com/leonlj/mlopstmptest/main/conda_dependencies.yml",
+//     "modelname": "sklearn_regression_model.pkl"
+// }
+
+
+{
+    "model": "/home/azureuser/cloudfiles/code/Users/fantian/OtD-AML-Pipeline-PoC/mlopstmptest-main/sklearn_regression_model.pkl",
+    "scoring": "/home/azureuser/cloudfiles/code/Users/fantian/OtD-AML-Pipeline-PoC/mlopstmptest-main/score.py",
+    "conda": "/home/azureuser/cloudfiles/code/Users/fantian/OtD-AML-Pipeline-PoC/mlopstmptest-main/conda_dependencies.yml",
+    "modelname": "sklearn_regression_model.pkl"
+}
