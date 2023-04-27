@@ -7,8 +7,8 @@
 
 
 {
-    "model": "/home/azureuser/cloudfiles/code/Users/fantian/OtD-AML-Pipeline-PoC/mlopstmptest-main/sklearn_regression_model.pkl",
-    "scoring": "/home/azureuser/cloudfiles/code/Users/fantian/OtD-AML-Pipeline-PoC/mlopstmptest-main/score.py",
-    "conda": "/home/azureuser/cloudfiles/code/Users/fantian/OtD-AML-Pipeline-PoC/mlopstmptest-main/conda_dependencies.yml",
+    "model": "https://github.com/tianputao/aml_pipline_test/blob/main/sklearn_regression_model.pkl",
+    "scoring": "https://raw.githubusercontent.com/tianputao/aml_pipline_test/main/score.py",
+    "conda": "https://raw.githubusercontent.com/tianputao/aml_pipline_test/main/conda_dependencies.yml",
     "modelname": "sklearn_regression_model.pkl"
 }
